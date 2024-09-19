@@ -1,5 +1,5 @@
 # Intro-To-Autoencoder-In-PyTorch
-![AutoEncoder]([https://github.com/Phantom1746a/Brain-Tumor-classification-using-transfer-learning-/blob/main/TRANSFER%20LEARNING.jpg](https://github.com/Phantom1746a/Intro-To-Autoencoder-In-PyTorch/blob/main/AUToencoder.png))
+![AutoEncoder]((https://github.com/Phantom1746a/Intro-To-Autoencoder-In-PyTorch/blob/main/AUToencoder.png))
 Autoencoders In the realm of machine learning, where algorithms learn from data, autoencoders have emerged as a valuable tool for unsupervised learning. These neural networks are designed to learn efficient representations of data, capturing its underlying structure and patterns.
 #How do autoencoders work?
 An autoencoder consists of two main components: an encoder and a decoder. The encoder takes an input data point and compresses it into a lower-dimensional representation called a latent code. The decoder then reconstructs the original data point from this latent code.
